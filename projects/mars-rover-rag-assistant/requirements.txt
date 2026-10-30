@@ -1,0 +1,10 @@
+streamlit>=1.40,<2
+pypdf>=5,<7
+sentence-transformers>=3,<6
+rank-bm25>=0.2,<1
+ollama>=0.4,<1
+pandas>=2,<3
+requests>=2.31,<3
+numpy>=1.26,<3
+
+
